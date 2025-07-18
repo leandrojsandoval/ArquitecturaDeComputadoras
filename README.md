@@ -1,5 +1,5 @@
 # Arquitectura de Computadoras
-Ejercicios resueltos de la materia Arquitectura de Computadoras (2009). Realizado en el Segundo Cuatrimestre 2021
+Ejercicios resueltos de la materia Arquitectura de Computadoras (3638). Realizado en el Segundo Cuatrimestre 2021
 
 ## Unidad 0: Introducción a las Maquinas de Estados
  
