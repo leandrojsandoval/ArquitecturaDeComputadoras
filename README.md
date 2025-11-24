@@ -1,5 +1,27 @@
 # Arquitectura de Computadoras
-Ejercicios resueltos de la materia Arquitectura de Computadoras (3638). Realizado en el Segundo Cuatrimestre 2021
+Ejercicios resueltos de la materia Arquitectura de Computadoras (3638). Realizado en el Segundo Cuatrimestre 2021.
+
+## Información de la Asignatura
+* **Carrera**: Ingeniería en Informática
+* **Materia**: Arquitectura de Computadoras (3638)
+* **Cuatrimestre**: Segundo Cuatrimestre
+* **Año**: 2021
+
+## Trayecto - Infraestructura
+* **Año Académico**: Segundo Año - Primer Cuatrimestre
+* **Responsable / Jefe de catedra**: Maidana, Carlos Eduardo
+* **Carga Horaria Semanal**: 4 hs
+* **Carga Horaria Total**: 64 hs
+* **Modalidad**: Virtual
+* **Correlativa anterior**: Fundamentos de Sistemas Embebidos (3631)
+ 
+## Docentes
+* Calaz, Alberto Ezequiel
+* Fiter, Jorge
+* Gho, Edgardo
+* Hnatiuk, Jair Ezequiel
+* Maidana, Carlos Eduardo
+* Rodriguez, Carlos Alberto
 
 ## Unidad 0: Introducción a las Maquinas de Estados
  
